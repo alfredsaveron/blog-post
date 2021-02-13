@@ -1,0 +1,44 @@
+h1 {
+  line-height: 72px;
+  margin: 24px 0;
+  color:White;
+}
+
+h6{
+  line-height:24px;
+  color:#7289da;
+}
+
+h6 span{
+  color:yellow;
+  float:right;
+}
+
+p {
+  line-height: 24px;
+  margin: 24px 0;
+  color:#bbbbc4;
+}
+
+body {
+  background: #242424;
+  -webkit-font-smoothing: antialiased;
+  font-family: 'Varela Round', sans-serif;
+  height: 100%;
+}
+
+::-webkit-scrollbar {
+  width: 3px;
+}
+
+::-webkit-scrollbar-track {
+  background: #242424; 
+}
+ 
+::-webkit-scrollbar-thumb {
+  background: #7289da; 
+}
+
+::-webkit-scrollbar-thumb:hover {
+  background: #7289da; 
+}
