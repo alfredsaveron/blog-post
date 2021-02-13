@@ -5,9 +5,8 @@
 <img src="https://cdn.discordapp.com/attachments/745937151094423642/810170520837947412/unknown.png">
 
 # Branding Colors
-<li> H1 : White
-H6 : #7289DA
-H6 SPAN : Yellow (?)
-P : #BBBBC4
-Background : #242424 - #262626
-</li>
+<li> H1 : White </li>
+<li> H6 : #7289DA </li>
+<li> H6 SPAN : Yellow (?) </li>
+<li> P : #BBBBC4 </li>
+<li> Background : #242424 - #262626 </li>
